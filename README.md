@@ -1,6 +1,6 @@
 ## Olá, sou o Eriky Veloso!
 
-👋 Seja bem-vindo! Estou constantemente explorando diversas áreas para adquirir o máximo de conhecimento e desenvolver as melhores soluções. Sou Graduado em Tecnologia da Informação pela Universidade Federal Rural do Semi-Árido (UFERSA) e técnico em Eletrotécnica pelo Instituto Federal do Rio Grande do Norte (IFRN). Atualmente, graduando em Engenharia de Software pela UFERSA.
+👋 Seja bem-vindo! Sou Graduado em Tecnologia da Informação pela Universidade Federal Rural do Semi-Árido (UFERSA) e técnico em Eletrotécnica pelo Instituto Federal do Rio Grande do Norte (IFRN). Atualmente, graduando em Engenharia de Software pela UFERSA.
 
 Possuo interesse nas áreas de desenvolvimento de software, engenharia de requisitos, gestão de projetos e transformação digital, buscando constantemente aprimorar conhecimentos técnicos e desenvolver soluções com impacto prático e organizacional.
 
@@ -16,13 +16,13 @@ Possuo interesse nas áreas de desenvolvimento de software, engenharia de requis
 
 ## Linguagens Mais Utilizadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikyAbreu&layout=compact&theme=github_dark&locale=pt-br&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikyAbreu&layout=compact&theme=github_dark&cache_seconds=1800)
 
 ---
 
 ## Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErikyAbreu&show_icons=true&theme=github_dark&locale=pt-br&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErikyAbreu&show_icons=true&theme=github_dark&cache_seconds=1800)
 
 ---
 
