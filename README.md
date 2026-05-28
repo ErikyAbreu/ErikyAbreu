@@ -14,18 +14,6 @@ Tenho interesse nas áreas de desenvolvimento de software, engenharia de requisi
 
 ---
 
-## Linguagens Mais Utilizadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikyAbreu&layout=compact&theme=github_dark&cache_seconds=1800)](https://github-readme-stats.vercel.app/api/top-langs/)
-
----
-
-## Estatísticas do GitHub
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErikyAbreu&show_icons=true&theme=github_dark&cache_seconds=1800)](https://github-readme-stats.vercel.app/api)
-
----
-
 ## Áreas de Interesse
 
 - Desenvolvimento de Software  
