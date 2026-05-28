@@ -1,8 +1,8 @@
-## Olá, sou o Eriky Veloso!
+##Olá, sou o Eriky Abreu!
 
-👋 Seja bem-vindo! Sou Graduado em Tecnologia da Informação pela Universidade Federal Rural do Semi-Árido (UFERSA) e técnico em Eletrotécnica pelo Instituto Federal do Rio Grande do Norte (IFRN). Atualmente, graduando em Engenharia de Software pela UFERSA.
+Graduado em Tecnologia da Informação pela Universidade Federal Rural do Semi-Árido (UFERSA), técnico em Eletrotécnica pelo Instituto Federal do Rio Grande do Norte (IFRN) e atualmente graduando em Engenharia de Software pela UFERSA.
 
-Possuo interesse nas áreas de desenvolvimento de software, engenharia de requisitos, gestão de projetos e transformação digital, buscando constantemente aprimorar conhecimentos técnicos e desenvolver soluções com impacto prático e organizacional.
+Tenho interesse nas áreas de desenvolvimento de software, engenharia de requisitos, gestão de projetos e transformação digital, buscando constantemente aprimorar conhecimentos técnicos e desenvolver soluções com impacto prático e organizacional.
 
 ---
 
@@ -16,13 +16,13 @@ Possuo interesse nas áreas de desenvolvimento de software, engenharia de requis
 
 ## Linguagens Mais Utilizadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikyAbreu&layout=compact&theme=github_dark&cache_seconds=1800)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikyAbreu&layout=compact&theme=github_dark&cache_seconds=1800)](https://github-readme-stats.vercel.app/api/top-langs/)
 
 ---
 
 ## Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErikyAbreu&show_icons=true&theme=github_dark&cache_seconds=1800)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErikyAbreu&show_icons=true&theme=github_dark&cache_seconds=1800)](https://github-readme-stats.vercel.app/api)
 
 ---
 
