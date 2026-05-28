@@ -1,4 +1,4 @@
-##Olá, sou o Eriky Abreu!
+## Olá, sou o Eriky Abreu!
 
 Graduado em Tecnologia da Informação pela Universidade Federal Rural do Semi-Árido (UFERSA), técnico em Eletrotécnica pelo Instituto Federal do Rio Grande do Norte (IFRN) e atualmente graduando em Engenharia de Software pela UFERSA.
 
