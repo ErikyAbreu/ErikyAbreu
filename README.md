@@ -1,23 +1,45 @@
-## Olá, sou o Eriky Abreu!
+## Olá, sou o Eriky Veloso!
 
-👋 Seja bem-vindo! Meu nome é Eriky Veloso e estou constantemente explorando diversas áreas para adquirir o máximo de conhecimento e desenvolver as melhores soluções. Sou técnico em eletrotécnica pelo IFRN - Campus Mossoró e graduado em Bacharelado em Ciência e Tecnologia pela UFERSA - Campus Central. Atualmente, sou estudante de Tecnologia da Informação na UFERSA - Campus Pau dos Ferros.
+👋 Seja bem-vindo! Estou constantemente explorando diversas áreas para adquirir o máximo de conhecimento e desenvolver as melhores soluções. Sou Graduado em Tecnologia da Informação pela Universidade Federal Rural do Semi-Árido (UFERSA) e técnico em Eletrotécnica pelo Instituto Federal do Rio Grande do Norte (IFRN). Atualmente, graduando em Engenharia de Software pela UFERSA.
 
-### Preferência em linguagens
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikyAbreu&layout=compact&theme=holi&locale=pt-br)
+Possuo interesse nas áreas de desenvolvimento de software, engenharia de requisitos, gestão de projetos e transformação digital, buscando constantemente aprimorar conhecimentos técnicos e desenvolver soluções com impacto prático e organizacional.
 
-### Projetos atuais
- - Flannel;
- - Sun in The City;
- - Gamification Workbench;
- - Estrelas Quasares Galaxias - Redes Neurais.
+---
 
-### Hobbies
-- Natação;
-- Resolução de Processos Lógicos;
-- Games.
+## Projetos Atuais
 
-### Estatísticas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErikyAbreu&show_icons=true&theme=holi&locale=pt-br)
+- Estrelas, Quasares e Galáxias com Redes Neurais
+- Avaliação das Ações de Apoio ao Ensino de Matemática Discreta
+- Análise do Mercado de Locação de Veículos  
+
+---
+
+## Linguagens Mais Utilizadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikyAbreu&layout=compact&theme=github_dark&locale=pt-br&cache_seconds=86400)
+
+---
+
+## Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErikyAbreu&show_icons=true&theme=github_dark&locale=pt-br&cache_seconds=86400)
+
+---
+
+## Áreas de Interesse
+
+- Desenvolvimento de Software  
+- Engenharia de Requisitos  
+- Gestão de Projetos  
+- Ciência de Dados e Inteligência Artificial  
+- Transformação Digital  
+
+---
+
+## Contato
+
+- LinkedIn: linkedin.com/in/eriky-veloso-a5aa1018a 
+- E-mail: erikyabreu@gmail.com  
 
 <!--
 **ErikyAbreu/ErikyAbreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
